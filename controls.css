@@ -1,0 +1,33 @@
+.rsliderwidth {
+    width:48px;
+}
+
+#rrangebutton {
+    float:left;
+    background-color:white;
+}
+
+#rnumberbutton {
+    float:left;
+    background-color:darkslategrey;
+} 
+
+#rrandombutton {
+    float:left;
+    background-color:lightpink;
+}
+
+#rplusbutton {
+    float:left;
+    background-color:gray;
+}
+
+#rautorandomcreate {
+    right:50vw;
+    background-color:white;
+}
+
+#rstopautocreate {
+    right:50vw;
+    background-color:white;
+}
